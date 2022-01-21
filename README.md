@@ -58,10 +58,29 @@ You will need to clone the repo so that you can run the application:
 
 Here are some screenshots from running the application:
 
-# Collect the Data
+### Collect the Data
 
-![Collect the Data](/images/Collect the Data.png)
+![Collect the Data](images\CollecttheData.png)
 
+### Prepare the Data
+
+![Prepare the Data](images\PreparetheData.png)
+
+### Analyze the Data
+
+![Analyze the Data](images\AnalyzetheData.png)
+
+### Visualize the Data
+
+![Visualize the Data](images\VisualizetheData.png)
+
+### Arbitrage Spread On a Single Day
+
+![Arbitrage Spread On a Single Day](images\ArbitrageSpreadonasingleday.png)
+
+### Profit Per Trade On A Day
+
+![Profit Per Trade On A Day](images\ProfitPerTradeonaday.png)
 
 ---
 
