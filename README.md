@@ -60,27 +60,27 @@ Here are some screenshots from running the application:
 
 ### Collect the Data
 
-![Collect the Data](images\CollecttheData.png)
+![Collect the Data](images/CollecttheData.png)
 
 ### Prepare the Data
 
-![Prepare the Data](images\PreparetheData.png)
+![Prepare the Data](images/PreparetheData.png)
 
 ### Analyze the Data
 
-![Analyze the Data](images\AnalyzetheData.png)
+![Analyze the Data](images/AnalyzetheData.png)
 
 ### Visualize the Data
 
-![Visualize the Data](images\VisualizetheData.png)
+![Visualize the Data](images/VisualizetheData.png)
 
 ### Arbitrage Spread On a Single Day
 
-![Arbitrage Spread On a Single Day](images\ArbitrageSpreadonasingleday.png)
+![Arbitrage Spread On a Single Day](images/ArbitrageSpreadonasingleday.png)
 
 ### Profit Per Trade On A Day
 
-![Profit Per Trade On A Day](images\ProfitPerTradeonaday.png)
+![Profit Per Trade On A Day](images/ProfitPerTradeonaday.png)
 
 ---
 
